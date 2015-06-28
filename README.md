@@ -17,7 +17,3 @@
 5 - Create a lib directory: `mkdir lib` (Where libraries will go to satisfy build depdendancies
 
 6 - Runs script to build and upload firmware to your Marlin compatible 3D printer
-
-
-Best Regards,
-David Roth
