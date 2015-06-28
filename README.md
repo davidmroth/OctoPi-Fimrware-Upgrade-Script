@@ -8,7 +8,7 @@
    - sudo apt-get install arduino
    
 2 - Create/clone Marlin Respository:
-  git clone https://github.com/MarlinFirmware/Marlin.git
+  `git clone https://github.com/MarlinFirmware/Marlin.git`
   
 3 - Copy OctoPi Firmware Upgrade Script to root of Marlin repository
 4 - Link the Marlin source files to a file named 'src': 'ln -sf Marlin src'
